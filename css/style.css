@@ -262,7 +262,7 @@ h6 {
 /* Nav Meu Styling */
 
 .nav-menu a {
-  padding: 8px;
+  padding: 3px;
   text-decoration: none;
   display: inline-block;
   color: rgba(202, 206, 221, 0.8);
@@ -1307,6 +1307,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 #contact .contact-info p {
   margin-bottom: 0;
   color: #112363;
+  font-size: 15px;
 }
 
 #contact .contact-info h3 {
